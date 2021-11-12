@@ -1,0 +1,2 @@
+# Newton-Fractal-Network
+Coded in MATLAB. I modeled behavior of Newton’s Method in cases of polynomial equations on the complex plane. Using the algorithm, I visualized the convergence of the method, which resulted  produced fractal images produced from convergence of Newton’s Method and evaluated its convergence efficiency against efficiency of other discrete algorithms, such as Secant Method and Bisection Method.
